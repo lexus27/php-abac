@@ -1,0 +1,8 @@
+{
+    "name": "lexus27/php-abac",
+    "description": "Library for Attribute Based Access Control [ABAC]",
+    "type": "library",
+    "license": "Apache 2.0",
+    "minimum-stability": "dev",
+    "require": {}
+}
