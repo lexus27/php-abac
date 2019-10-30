@@ -17,7 +17,7 @@ namespace Jungle\ABAC\Matchable {
 	 * Interface MatchableInterface
 	 * @package Jungle\Abac
 	 */
-	interface MatchableInterface extends NamedInterface{
+	interface MatchableInterface{
 
 		/**
 		 * @param $name
